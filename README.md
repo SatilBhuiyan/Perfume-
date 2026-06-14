@@ -1,2 +1,2 @@
 # Perfume-
-welcome to the Oraoud perfume store frontend
+welcome to the Oraoud Perfume Store Frontend
